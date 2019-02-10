@@ -25,5 +25,4 @@ const routes: Routes = [
   declarations: [NewsPage]
 })
 
-
 export class NewsPageModule {}
