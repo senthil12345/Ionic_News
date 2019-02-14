@@ -26,3 +26,6 @@ const routes: Routes = [
 })
 
 export class NewsPageModule {}
+
+
+// f0d1218be36a4e5998d0510ce8351f6b
